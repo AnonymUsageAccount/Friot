@@ -5,6 +5,9 @@ the #13 submission to ICECCS 2019:
 
 "Friot: A Functional Reactive Language for IoT Programs with Dependent Type-and-Effect System"
 
+
+
+
 What you can find here are:
 
 (1) A Report: providing more type reasoning trees for more functions;
@@ -16,5 +19,9 @@ What you can find here are:
 (4) Experiments for those compiled C codes on Raspberry Pi B+. 
 
 (5) Type checking system: working in the process...
+
+
+
+
 
 Thanks!
