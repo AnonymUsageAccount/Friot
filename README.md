@@ -16,7 +16,7 @@ What you can find here are:
 
 (3) A compiler: compile Friot to JS code;
 
-(4) Experiments for those compiled C codes on Raspberry Pi B+. 
+(4) Experiments for those compiled JS codes on Raspberry Pi B+. 
 
 
 https://www.youtube.com/watch?v=p3CbJI8lLIs
