@@ -18,9 +18,13 @@ What you can find here are:
 
 (4) Experiments for those compiled C codes on Raspberry Pi B+. 
 
+
+https://www.youtube.com/watch?v=p3CbJI8lLIs
+
+
+https://www.youtube.com/watch?v=umIN-Lwhfhc
+
 (5) Type checking system: working in the process...
-
-
 
 
 
