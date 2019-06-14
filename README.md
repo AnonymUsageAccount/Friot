@@ -12,7 +12,7 @@ What you can find here are:
 
 (1) A Report: providing more type reasoning trees for more functions;
 
-(2) More Friot examples: providing more Friot IoT programs to demonstrate the usage of this domain-specific language;
+(2) More Friot examples for MicroBit and Raspberry Pi: providing more Friot IoT programs to demonstrate the usage of this domain-specific language;
 
 (3) A compiler: compile Friot to C code;
 
