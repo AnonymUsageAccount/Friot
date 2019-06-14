@@ -14,7 +14,7 @@ What you can find here are:
 
 (2) More Friot examples for MicroBit and Raspberry Pi: providing more Friot IoT programs to demonstrate the usage of this domain-specific language;
 
-(3) A compiler: compile Friot to C code;
+(3) A compiler: compile Friot to JS code;
 
 (4) Experiments for those compiled C codes on Raspberry Pi B+. 
 
