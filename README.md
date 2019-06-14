@@ -21,6 +21,9 @@ What you can find here are:
 (5) Type checking system: working in the process...
 
 
+For more experiments' demos:
+https://www.youtube.com/watch?v=p3CbJI8lLIs
+https://www.youtube.com/watch?v=umIN-Lwhfhc
 
 
 
